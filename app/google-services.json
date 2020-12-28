@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "138974380147",
+    "project_id": "spotify-videos-64c1f",
+    "storage_bucket": "spotify-videos-64c1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138974380147:android:4cd8800cd270056902aa06",
+        "android_client_info": {
+          "package_name": "atomsandbots.android.spotifyvideos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138974380147-6qipm3qli7d6gh8ks8o35220aq1ca7n8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "atomsandbots.android.spotifyvideos",
+            "certificate_hash": "b122ce65df2d629e2715ee686bfbc4b8108ec2c2"
+          }
+        },
+        {
+          "client_id": "138974380147-ac9gsmse45f4mak8m5gd7uohkmk4vp1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Q1zkLURaqeEaAK-rKRD_sAN9uLMTKks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138974380147-ac9gsmse45f4mak8m5gd7uohkmk4vp1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
