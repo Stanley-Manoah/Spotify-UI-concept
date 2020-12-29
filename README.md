@@ -18,9 +18,9 @@ Email-password sign up is not enabled yet.
 * Data Binding
 * Firebase Auth
 
-# Contribution Guidelines 
+## Contribution Guidelines 
 
-## Make Appropriately Sized Changes
+### Make Appropriately Sized Changes
 
 Contributions to this repository are welcome. Try to keep changes as small as possible.
 And as always, If there are any issues with the initial file please raise the issue.
