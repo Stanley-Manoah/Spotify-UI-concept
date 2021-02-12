@@ -87,7 +87,7 @@ class MainFragment : Fragment() {
     override fun onPause() {
         super.onPause()
         // Capture the current video position and pause the video.
-        mCurrentVideoPosition = mMediaPlayer!!.currentPosition
+       // mCurrentVideoPosition = mMediaPlayer!!.currentPosition
         binding.videoView.pause()
     }
 

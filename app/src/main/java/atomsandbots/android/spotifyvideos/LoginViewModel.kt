@@ -15,13 +15,6 @@ class LoginViewModel : ViewModel() {
                 "Welcome to Spotify Videos",
                 "Welcome to Spotify Videos"
         )
-
-        val californiaFacts = arrayOf(
-                "The most populated state in the United States is California",
-                "Three out of the ten largest U. S. cities are in California",
-                "The largest tree in the world can be found in California",
-                "California became a state in 1850"
-        )
     }
 
     enum class AuthenticationState {
